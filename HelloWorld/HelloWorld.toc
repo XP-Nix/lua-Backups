@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: HelloWorld
+## Notes: /fstack in game
+## Notes: https://wowpedia.fandom.com/wiki/World_of_Warcraft_API
+## Notes: /script print((select(4, GetBuildInfo())));
+## Author: XP_
+## Version: 0.0.1
+
+HelloWorld.lua
